@@ -1,0 +1,6 @@
+.DS_Store
+._*
+*.sublime-project
+*.sublime-workspace
+*.json
+*.xlsx

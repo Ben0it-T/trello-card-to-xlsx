@@ -18,6 +18,7 @@ Converts Trello Card JSON export to XLSX file.
 [TrelloLists]
 <list id> = <list name>
 ```
+
 ## Usage
 
 ```
@@ -31,6 +32,6 @@ For my personnal use, I wrote this python script to convert a JSON card to an XL
 
 ## Example
 
-<img width="373" alt="Trello-Convert-Card-JSON-to-XLS" src="https://user-images.githubusercontent.com/37017213/197341295-5c859d62-510b-4d85-a779-71ec8d57e8bf.png">
+<img width="373" alt="Trello-Convert-Card-JSON-to-XLS" src="https://user-images.githubusercontent.com/37017213/197360018-465ee4ba-9e85-46af-9d87-ebaa178a1945.png">
 
-[Trello-Convert-Card-JSON-to-XLS.xlsx](https://github.com/Ben0it-T/trelloCardToXlsx/raw/master/Trello-Convert-Card-JSON-to-XLS.xlsx)
+[Trello-Convert-Card-JSON-to-XLS.xlsx](https://github.com/Ben0it-T/trello-card-to-xlsx/raw/master/Trello-Convert-Card-JSON-to-XLS.xlsx)

@@ -34,4 +34,3 @@ For my personnal use, I wrote this python script to convert a JSON card to an XL
 
 <img width="373" alt="Trello-Convert-Card-JSON-to-XLS" src="https://user-images.githubusercontent.com/37017213/197360018-465ee4ba-9e85-46af-9d87-ebaa178a1945.png">
 
-[Trello-Convert-Card-JSON-to-XLS.xlsx](https://github.com/Ben0it-T/trello-card-to-xlsx/raw/master/Trello-Convert-Card-JSON-to-XLS.xlsx)

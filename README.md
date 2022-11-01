@@ -21,13 +21,15 @@ Converts Trello Card JSON export to XLSX file.
 
 ## Usage
 
+Export your card to json
+Run
 ```
 python3 trelloCardToXlsx.py card.json 
 ```
 
 ## Notes
 
-With a Trello 'free plan' can only export a card to JSON.
+With a Trello 'free plan' we can only export a card to JSON.
 For my personnal use, I wrote this python script to convert a JSON card to an XLSX file (that I can archive to document my projects for example)
 
 ## Example

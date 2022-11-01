@@ -22,6 +22,7 @@ Converts Trello Card JSON export to XLSX file.
 ## Usage
 
 Export your card to json
+
 Run
 ```
 python3 trelloCardToXlsx.py card.json 
